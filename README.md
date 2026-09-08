@@ -2,7 +2,9 @@
 
 # 👋 안녕하세요, 백엔드 개발자 정해원입니다
 
-> 💻 Backend Developer | 🌍 Seoul
+<p align="center">
+  💻 Backend Developer &nbsp;|&nbsp; 🌍 Seoul
+</p>
 
 ---
 
