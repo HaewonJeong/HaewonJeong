@@ -65,7 +65,7 @@
 - 5분 HOLD 및 Lazy Expiration 구현
 - DB UNIQUE 제약을 이용한 최종 데이터 무결성 보장
 - k6로 좌석 1개에 100명이 접근하는 동시성 테스트 수행
-- 세션 인증과 CUSTOMER·ADMIN 권한 분리
+- 세션 인증과 CUSTOMER·ADMIN 권한 분리(관리자 기능 구현)
 - 모의 결제와 예매 확정·취소·환불 흐름 구현
 - Docker·Render·Vercel을 이용한 서비스 배포
 
