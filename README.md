@@ -95,18 +95,6 @@
 
 ---
 
-### 🎵 SpotifyMini
-
-> Jakarta Servlet과 JDBC로 구현한 음악 플레이리스트 미니 프로젝트
-
-- Spring 없이 REST API 직접 설계
-- 플레이리스트 및 댓글 기능 구현
-- JDBC를 활용한 데이터베이스 연동
-
-🔗 [Backend Repository](https://github.com/songpa-backend/SpotifyMiniBackend)
-
----
-
 ## 💼 Experience
 
 ### Software QA Engineer
