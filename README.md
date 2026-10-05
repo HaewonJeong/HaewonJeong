@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=Hello&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=100&fontColor=ffffff&desc=I'm%20%Haewon%20%Jeong)
+![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=Hello&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=100&fontColor=ffffff&desc=I'm%20%Haewon)
 
 # 👋 안녕하세요, 백엔드 개발자 정해원입니다
 
